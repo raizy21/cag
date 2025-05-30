@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chunk-0",
+    "role": "software engineer",
+    "content": "software engineer:\r\n\r\n* alice smith\r\n* bob johnson\r\n* carol williams",
+    "kv_cache": "CACHE_FOR_software engineer:\r\n..."
+  },
+  {
+    "id": "chunk-1",
+    "role": "data scientist",
+    "content": "data scientist:\r\n\r\n* david brown\r\n* emma davis\r\n* frank wilson",
+    "kv_cache": "CACHE_FOR_data scientist:\r\n\r\n*..."
+  },
+  {
+    "id": "chunk-2",
+    "role": "product manager",
+    "content": "product manager:\r\n\r\n* grace lee\r\n* henry miller\r\n* irene taylor",
+    "kv_cache": "CACHE_FOR_product manager:\r\n\r\n..."
+  },
+  {
+    "id": "chunk-3",
+    "role": "ux designer",
+    "content": "ux designer:\r\n\r\n* jack anderson\r\n* katie thomas\r\n* leo martinez",
+    "kv_cache": "CACHE_FOR_ux designer:\r\n\r\n* ja..."
+  },
+  {
+    "id": "chunk-4",
+    "role": "devops engineer",
+    "content": "devops engineer:\r\n\r\n* maya clark\r\n* noah lewis\r\n* olivia young",
+    "kv_cache": "CACHE_FOR_devops engineer:\r\n\r\n..."
+  },
+  {
+    "id": "chunk-5",
+    "role": "me",
+    "content": "me:\r\n\r\n* andrei\r\n* razvan\r\n* chiper",
+    "kv_cache": "CACHE_FOR_me:\r\n\r\n* andrei\r\n* r..."
+  }
+]

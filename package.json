@@ -1,6 +1,7 @@
 {
   "name": "cag",
   "version": "1.0.0",
+  "type": "module",
   "description": "simple cache-augmented generation demo using node.js, openai and pinecone",
   "keywords": [
     "cag",
@@ -20,10 +21,9 @@
   },
   "license": "ISC",
   "author": "andrei",
-  "type": "module",
   "main": "query.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node precompute.js"
   },
   "dependencies": {
     "@pinecone-database/pinecone": "^6.0.1",
