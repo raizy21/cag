@@ -1,0 +1,39 @@
+software engineer:
+
+* alice smith
+* bob johnson
+* carol williams
+
+data scientist:
+
+* david brown
+* emma davis
+* frank wilson
+
+product manager:
+
+* grace lee
+* henry miller
+* irene taylor
+
+ux designer:
+
+* jack anderson
+* katie thomas
+* leo martinez
+
+devops engineer:
+
+* maya clark
+* noah lewis
+* olivia young
+
+
+
+me:
+
+* andrei
+* razvan
+* chiper
+
+
