@@ -23,7 +23,8 @@
   "author": "andrei",
   "main": "query.js",
   "scripts": {
-    "start": "node precompute.js"
+    "start": "node precompute.js",
+    "dev": "node inference.js"
   },
   "dependencies": {
     "@pinecone-database/pinecone": "^6.0.1",
